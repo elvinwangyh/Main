@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @elvinwangyh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in quant, financial engineering, econometrics data and machine learning
+- 🌱 I’m currently learning financial econometrics
+- 💞️ I’m looking to collaborate on quant project
+- 📫 How to reach me: drop me a comment or message on medium
 
-<!---
-elvinwangyh/elvinwangyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
